@@ -53,21 +53,3 @@ This repository is packed with:
 
 ---
 
-## 🔗 Explore the Repository
-
-You can find all these features and more in the **OnlineShop** repository on GitHub. Feel free to **explore**, **fork**, and **contribute**!
-
-👉 [OnlineShop on GitHub](https://lnkd.in/d9aruGDU)
-
----
-
-## 🤝 Get Involved!
-
-Contributions, feedback, and suggestions are highly welcome! Let’s collaborate to make **OnlineShop** even better.
-
----
-
-## Stay Connected
-
-- **GitHub**: [BehzadDara](https://github.com/BehzadDara)
-- **LinkedIn**: [Behzad Dara](https://www.linkedin.com/in/behzaddara/)
